@@ -1,4 +1,4 @@
-# <p align="center">⚡ Hello World, I'm Abiyyuza! ⚡</p>
+# <p align="center"> Hello World, I'm Abiyyuza! </p>
 
 <p align="center">
   <a href="https://github.com/Raven69-igtm">
@@ -8,13 +8,13 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/Raven69-igtm?label=Followers&style=for-the-badge&color=00F2FE&logo=github&logoColor=white" alt="GitHub followers" />
-  <img src="https://komarev.com/normal-badge.png?key=Raven69-igtm-profile-views&color=4facfe&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+  <img src="https://views.whatilearened.today/views/github/Raven69-igtm/Raven69-igtm.svg" alt="Profile Views" />
 </p>
 
 ---
 
 ## 💫 About Me
-<img align="right" src="https://raw.githubusercontent.com/Absolut-Double-Zero/Absolut-Double-Zero/main/images/main.gif" width="300px" alt="Coding Animation" />
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3PfvGTJVPQ/giphy.gif" width="300px" alt="Coding Animation" />
 
 * 🎓 Currently studying **Computer Science / Information Technology**
 * 💻 Developing systems using **Web Development** & **Machine Learning** frameworks
