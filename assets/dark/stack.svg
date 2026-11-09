@@ -23,7 +23,7 @@
   <text class="mono rise a3" x="154" y="96"  font-size="15" fill="var(--bone)">Laravel · PHP · JavaScript · Tailwind</text>
 
   <text class="mono rise a4" x="48" y="128" font-size="12" fill="var(--muted)" letter-spacing="2">DATA</text>
-  <text class="mono rise a4" x="154" y="128" font-size="15" fill="var(--bone)">MySQL · Laravel Eloquent · REST APIs</text>
+  <text class="mono rise a4" x="154" y="128" font-size="15" fill="var(--bone)">Supabase · MongoDB · PostgreSQL · FastAPI</text>
 
   <text class="mono rise a5" x="48" y="160" font-size="12" fill="var(--muted)" letter-spacing="2">AI</text>
   <text class="mono rise a5" x="154" y="160" font-size="15" fill="var(--bone)">Scikit-learn · Pandas · Jupyter · model evaluation</text>
@@ -32,5 +32,5 @@
   <text class="mono rise a6" x="154" y="192" font-size="15" fill="var(--bone)">Git · GitHub · VS Code · practical tooling</text>
 
   <text class="mono rise a7" x="48" y="224" font-size="12" fill="var(--muted)" letter-spacing="2">TOOLING</text>
-  <text class="mono rise a7" x="154" y="224" font-size="15" fill="var(--bone)">Git · GitHub · Postman · XAMPP · Figma</text>
+  <text class="mono rise a7" x="154" y="224" font-size="15" fill="var(--bone)">Git · GitHub · Laragon · Docker · Kubernetes</text>
 </svg>
