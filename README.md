@@ -1,6 +1,6 @@
 <div align="center">
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/header-v1.svg"/><img src="assets/header-v1.svg" alt="Abiyyuza"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/header-v1.svg"/><img src="assets/header-v1.svg" alt="who's Raven"/></picture>
 
 <a href="https://github.com/Raven69-igtm"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PORTFOLIO-0d1117?style=flat-square&logoColor=ffffff"/><img src="https://img.shields.io/badge/PORTFOLIO-ffffff?style=flat-square&logoColor=000000" alt="GitHub profile"/></picture></a>
 <a href="https://github.com/Raven69-igtm"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/RESUME-0d1117?style=flat-square&logo=adobeacrobatreader&logoColor=ffffff"/><img src="https://img.shields.io/badge/RESUME-ffffff?style=flat-square&logo=adobeacrobatreader&logoColor=000000" alt="GitHub profile"/></picture></a>
@@ -11,7 +11,7 @@
 </div>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s01.svg"/><img src="assets/s01.svg" alt="01 — whoami"/></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/whoami.svg"/><img src="assets/whoami.svg" alt="About Abiyyuza"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/whoami.svg"/><img src="assets/whoami.svg" alt="About who's Raven"/></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s02.svg"/><img src="assets/s02.svg" alt="02 — system map"/></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/ecosystem.svg"/><img src="assets/ecosystem.svg" alt="Project ecosystem"/></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s03.svg"/><img src="assets/s03.svg" alt="03 — projects"/></picture>
